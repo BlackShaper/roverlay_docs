@@ -1,0 +1,1 @@
+(self.webpackChunkroverlay=self.webpackChunkroverlay||[]).push([[4],{5262:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/roverlay_docs/blog/tags","slug":"docusaurus","name":"docusaurus","count":1,"permalink":"/roverlay_docs/blog/tags/docusaurus"}')}}]);

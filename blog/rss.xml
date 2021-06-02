@@ -9,7 +9,7 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Релиз версии 0.2.2]]></title>
-            <link>https://roverlay.github.io/blog/release0.2.2</link>
+            <link>https://roverlay.github.io/roverlay_docs/blog/release0.2.2</link>
             <guid>release0.2.2</guid>
             <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></description>

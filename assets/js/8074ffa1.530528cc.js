@@ -1,0 +1,1 @@
+(self.webpackChunkroverlay=self.webpackChunkroverlay||[]).push([[406],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u0420\u0435\u043b\u0438\u0437 \u0432\u0435\u0440\u0441\u0438\u0438 0.2.2","permalink":"/roverlay_docs/blog/release0.2.2"}]}')}}]);

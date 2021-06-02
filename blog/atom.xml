@@ -10,7 +10,7 @@
     <entry>
         <title type="html"><![CDATA[Релиз версии 0.2.2]]></title>
         <id>release0.2.2</id>
-        <link href="https://roverlay.github.io/blog/release0.2.2"/>
+        <link href="https://roverlay.github.io/roverlay_docs/blog/release0.2.2"/>
         <updated>2021-06-02T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></summary>
     </entry>
