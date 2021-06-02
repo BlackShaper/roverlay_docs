@@ -3,7 +3,7 @@ module.exports = {
   title: "Roverlay",
   tagline: "Overlay for everything",
   url: "https://roverlay.github.io",
-  baseUrl: "/",
+  baseUrl: "/roverlay_docs/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
